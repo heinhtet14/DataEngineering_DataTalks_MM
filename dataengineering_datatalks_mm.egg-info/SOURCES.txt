@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+Week1/Docker_SQL/docker.py
+dataengineering_datatalks_mm.egg-info/PKG-INFO
+dataengineering_datatalks_mm.egg-info/SOURCES.txt
+dataengineering_datatalks_mm.egg-info/dependency_links.txt
+dataengineering_datatalks_mm.egg-info/top_level.txt
